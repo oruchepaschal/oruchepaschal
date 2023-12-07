@@ -28,11 +28,11 @@
 <br>
 ### Let's get Connected  
 
-<a href="https://dev.to/oruchepaschal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="doziestar" height="30" width="40" /></a>&nbsp;
-<a href="https://twitter.com/oruchepaschal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dozie_cnc" height="30" width="40" /></a>&nbsp;
-<a href="https://linkedin.com/in/oruchepaschal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dozie7" height="30" width="40" /></a>&nbsp;
-<a href="https://facebook.com/oruchepaschal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dozie7" height="30" width="40" /></a>&nbsp;
-<a href="https://instagram.com/oruchepaschal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dozie_cnc" height="30" width="40" /></a>
+<a href="https://dev.to/oruchepaschal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="oruchepaschal" height="30" width="40" /></a>&nbsp;
+<a href="https://twitter.com/oruchepaschal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oruchepaschal" height="30" width="40" /></a>&nbsp;
+<a href="https://linkedin.com/in/oruchepaschal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oruchepaschal" height="30" width="40" /></a>&nbsp;
+<a href="https://facebook.com/oruchepaschal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oruchepaschal" height="30" width="40" /></a>&nbsp;
+<a href="https://instagram.com/oruchepaschal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oruchepaschal" height="30" width="40" /></a>
 
 <br>
 ### My Swiss Army Knives  
@@ -41,11 +41,11 @@
 
 <br/><br>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oruchepaschal&show_icons=true&locale=en&layout=compact&theme=dark&hide=html,css,scss&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800&border_radius=15" height="200" width="450" alt="doziestar" /></p>  <br>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oruchepaschal&show_icons=true&locale=en&layout=compact&theme=dark&hide=html,css,scss&count_private=true&include_all_commits=true&langs_count=8&cache_seconds=1800&border_radius=15" height="200" width="450" alt="oruchepaschal" /></p>  <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oruchepaschal&theme=dark&include_all_commits=true&cache_seconds=1800&count_private=true&layout=compact&border_radius=15" alt="doziestar" /></p>  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oruchepaschal&theme=dark&include_all_commits=true&cache_seconds=1800&count_private=true&layout=compact&border_radius=15" alt="paschaloruche" /></p>  
 
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oruchepaschal&show_icons=true&locale=en&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800&border_radius=15" height="200" width="500" alt="doziestar" /></p>
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oruchepaschal&show_icons=true&locale=en&theme=dracula&count_private=true&include_all_commits=true&cache_seconds=1800&border_radius=15" height="200" width="500" alt="paschaloruche" /></p>
 
 <p align="right">
 <a href="https://app.daily.dev/oruchepaschal"><img src="https://github.com/oruchepaschal/oruchepaschal/blob/main/devcard.svg" width="400" alt="Oruche Paschal's Dev Card"/></a> </p>
